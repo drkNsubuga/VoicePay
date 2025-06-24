@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VoicePay: Your Voice, Your Money
 
 VoicePay is a voice-enabled mobile money application designed to make financial transactions seamless and accessible. By leveraging voice commands, it empowers users to send money, check balances, and perform other mobile money operations using their preferred language.
@@ -104,6 +103,3 @@ VoicePay is a voice-enabled mobile money application designed to make financial 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-=======
-VoicePay
->>>>>>> be5ff57 (Fix expo-secure-store version compatibility)
